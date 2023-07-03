@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react_node_bc_48_001elijah/static/css/main.5d79b607.css",
+    "main.js": "/react_node_bc_48_001elijah/static/js/main.3c39cf98.js",
+    "static/media/Poppins-Regular.ttf": "/react_node_bc_48_001elijah/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Medium.ttf": "/react_node_bc_48_001elijah/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/react_node_bc_48_001elijah/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/sprite.svg": "/react_node_bc_48_001elijah/static/media/sprite.5898f3f1818a0a93fe6997e27f1b4d93.svg",
+    "static/media/welcome-page-1x.png": "/react_node_bc_48_001elijah/static/media/welcome-page-1x.abcacf1d2213219c6bdf.png",
+    "static/media/welcome-page-mob-1x.png": "/react_node_bc_48_001elijah/static/media/welcome-page-mob-1x.170ac35e3bc68fd8ecd2.png",
+    "index.html": "/react_node_bc_48_001elijah/index.html",
+    "main.5d79b607.css.map": "/react_node_bc_48_001elijah/static/css/main.5d79b607.css.map",
+    "main.3c39cf98.js.map": "/react_node_bc_48_001elijah/static/js/main.3c39cf98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d79b607.css",
+    "static/js/main.3c39cf98.js"
+  ]
+}
